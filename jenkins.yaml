@@ -265,7 +265,7 @@ tool:
               id: "6.6-rc-1"
   maven:
     installations:
-    - name: "MyMaven"
+    - name: "MyMavenmaster"
       properties:
       - installSource:
           installers:
