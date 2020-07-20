@@ -19,7 +19,7 @@ credentials:
       - usernamePassword:
           description: "userandpasstest"
           id: "bb5f955e-867c-4b91-87b2-660301a717b0"
-          password: "{AQAAABAAAAAQKe0pZBZeOrmv4HCdcR9G3wqbTPcAQ9Ni2ahwF/Z1qmo=}"
+          password: "{AQAAABAAAAAQF9wUjjLiGTf2eZp6yBRWrySJvETMYVCQr/RAUy/Mp1w=}"
           scope: GLOBAL
           username: "aws"
       - file:
@@ -265,7 +265,7 @@ tool:
               id: "6.6-rc-1"
   maven:
     installations:
-    - name: "MyMaven"
+    - name: "MyMavenss"
       properties:
       - installSource:
           installers:
