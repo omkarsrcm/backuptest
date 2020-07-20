@@ -175,11 +175,10 @@ jenkins:
         name: "srcm"
         properties:
         - "apiToken"
-        - preferredProvider:
-            providerId: "default"
-        - "timezone"
         - mailer:
             emailAddress: "omkarkulkarni32@gmail.com"
+        - preferredProvider:
+            providerId: "default"
   slaveAgentPort: 50000
   systemMessage: "Hello This Jenkins Server Belong to Crontab India Pvt Limited."
   updateCenter:
