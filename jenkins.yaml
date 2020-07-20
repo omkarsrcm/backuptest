@@ -270,4 +270,4 @@ tool:
       - installSource:
           installers:
           - maven:
-              id: "3.6.3"
+              id: "3.6.4"
