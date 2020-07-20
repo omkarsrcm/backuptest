@@ -1,0 +1,285 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - fileSystemServiceAccountCredential:
+          id: "793970de-51ac-4a8c-9002-da0421fc856e"
+          scope: GLOBAL
+      - file:
+          description: "pp"
+          fileName: "wordpress.ppk"
+          id: "testing"
+          scope: GLOBAL
+          secretBytes: "{1jwDrrTDe5IHG4i5x5d2T3X9wM6syYjuNt1CDbcrmPDxYBRDH3HzdRm/7ZwbmUNKPVS0fu92yc1q/yPCowCZ/iAYPnhk1J1ZHteGJdQtiWyFhrBgY68rX7ggTvyU43LU/MvbwCh2IUCrkzHcTOUPWeTmXe9NbFb10g8qr4SYczF9PI8XI7krwu4kpBNsz5zIfD3hlk9roAA4w2maoWYBkxVDQ/ff8mGVz5hIplAVlhLPWB/ivQJDi6+mak46MiX55P+WH6/wftBwD/NQpfy//EWDsPwZVg5auAXmD6WZQQfZp6UVpCzeDOTMLjFNBnfe53x2SRRGSNP2IBO3G98Wwv2MeXWuWEuDBiNOMvRk/bWndsVd5CXAozqSAXiQa/afLwCVYXQ3y9TKbi3BSo7R353iver/9WsIAUrUk8pjqK98FUgESYQmk9ezZtfANxK7fhPIrSQHn77s8eirjTESmtgsSOgqpnVZHadEywtNH77N6Zn2StIoCaAZZ7uucJ7Z1mt2lu6KQJcoKwexVNvPIMfN+Zv+y0zyyvaWHvBMT5leeYZMyJXcHMTrY6gtNJ/QENcD21BrgtTgrCEz79AQwdraNGm/3gRXtgZQr5UmuR68621kAye/p7kt8YS6p9u6HO0SPicW0p/Xk9MRUmJqzZAhNmI9K5njM9Tu2tXSTq22PN4j/4stOpLPulI+eBkWc6z8ULNfU0oAVVznehlxLVM3ZKZGGMLh/4+wbw+Rc6iyqI+Ch8clm/+kqFbqP/cLVZk59em8H6ew5vzMBCwi9AyPB1hVKNO1nJzUNrUxZuiD5G5qmkaMG3CYsfhQybr3MEN2kVGt6sCnBT4AH+JKAhleEJAgGZK86tgQ51QRpcIBv2DKc+gggtMaWUfyE0gpOGz8r0juiWpknSJn2B9itIbGszN5GAA4ECe4ww6Gkgtfit3AKcxvpnItfo2Ntq4tH5K0QorgHs0bXWjeqSx4J8nkUcmy6h+TOSWODTraVe5Q431P/ijjT4mH49UkT10NoXDG7yS7Oa/kJrqqjQ7eJapvbnw/MvPT4YKleCe1fZpGOCzcXr8x33cZYbOdb/+BcwaZI+fibug4QBdbhU1IwqUi6x6URm1GdCm6bowUKbQ/qEBtwoS1NEaLUhCg1J/4ITrPt+kmcNf3vnBckmNxZDY/2uzAVBvJtzsVSyY8iTTYx7dhLV9Fpm1S5csqMaaEpmCAUlWPS3YvFfa9+TIpmeVRlb9kRP8H5okoSAHKkySJgwGBXcns093cUA6ZkgoHYocK06iulPkh4OjqMiQMBiKRgQaxfmEBmwahQk8SyvcIGp7P3R0wb0W02guflKJsDkqofUv8Np2YPTtswrkochhr1XcedXC7MLDBIvEAJR0PYSvnWKdRbF0wwUTprx39BTmeCQrxGmp4ZsuvCvkSWffTO+bEcHVksM5aLFeaPjdG15MQPADMgeMdrXYIQiUC94dwtR7Y8KasC36BQ6mEhK25b02pkFxpp5HgUi+ZrYSldEjJcW4ZhxsOU3QXigQQ5dt+XGaNY4vUUg3b4W7swUV+FT8w7Cmkog2JkZFLFU75Qtl6BiHVA+tNL15U1GiEXMcuvOTM6rmas+tOBCgZqwGAzXxxCzXp5qZYKtsIxrIFguzXWWP3ADhHN+MSkh+cIk6lBr5n4GPmdoNL+Njk2SVihoCUoyHa484DvPi5orC8Mnm8WZW1gRoiJsFohP3+sNDRZbhMLFJ/h9ycOHdvllMOZD9xek3PAywbgFQbwmtk8+QxyL8rtbu1Ohw7Qtf4mLN0oD2qrPVcN79ZGY7KZTZM05WGdsOe95PBaN6N0BTbvrBsnD9GqvuesWnpQaPDYg8L4QXjYIwntCjeO9tamXF76RWj4u/DM/dfgaFcHcfsor0dHdUGiZOIhALllh6EJ/evj5IQVxEbDCP8FuNu+HDr6elMW3v69gspSMSpBZC1R4/1xUKfsiFxUC0snlLt}"
+      - string:
+          description: "testingtwo"
+          id: "testingtwo"
+          scope: SYSTEM
+          secret: "{AQAAABAAAAVAMsqsgHqLQZAvoTCmF6Sfmgp+PxuMO3qmVkpq8GDwkmtOZTaiwii5WRRrkhRx9FZWQDtAhZmR0BiCK6SfgK+459FZZ1WcgYJ1KWPAhn7+YJrIEOnmfebl1/PqgcHEsgGwYxmqQgaQWvbX9b+djTOWMIZG4+ds6nOqQuEVnU/njOqN7gkYuboBEho9bzHD3qPs5B9P2hMVOhohkj8Sn4L/3Knna9tlFydSbSJhlU0thAriHfupfh6jTeMl6Ydj7QUDHnn/r2+GoM9SE50T78JYxNyPqfl3/+CB+CAjReE/e+8Zzw+9pBjTVLO87a7JSJatxH5RT1flG9X/SsyWvFgJKNaPYc3t1L9YtH1/AV0bDPXy8sdIydwXcDH0JYVNNOT03m2VEvROedojsxfLL/aiNEX8ZxoFJ6jwD9gD1WSd/ARqD0IpmRRMxMo0kgC2QtZit2WMtQsCEORg2QLuV9EtVfQ9id5cgEsbXSEwY4KIdjhe6Wf53l/arCS/I3F3ihvsF8VxIbyZGKvnowxWRgLDGnXeqxSu96CLndA2lGjRYRKZ7tp/dcUfBRxWggJWprQHp9VCrfPkSAmnYUcaC9/SZtcmnVnz0Y9cqlaZUYchERVj3elBhQ7pyn15BMpO2gklYICAXz7qphSJsqHUbacdr+9I6Lz5TbJhk9r1f1e4erRKlQO0wxPjPD1CWddUtiX92VzNBCDFaNBDAhcJhLIVFUxFs8L2cXfCfxwmDUM6yHZrkazVoWXN1kY8xyxBGggHgLxV1HFQjVaJ9U2jwQbDbEZTVjm2FIJnEnHhzeCTlBZqaU6poq0xe/Q1JLzZOdly7MRQRJSVMKuylfj4Imf9Y6ra2Z/61fpCMpYLJSiTVbYOla1QCpTT9rhhCl1IlN0w33F4BjtybwBFZAvRyxTqluo74Xp2R9latUTs/Rr7//gWHkSpvejFCLQmyzudKs+D+loByOdLlnKzKfaOcAfHhBTKdmSfGxmy1PCAhZPOgTHHruuLmIm7dniBWJFG+zID/LwlRs3XwT3A94YBWajhNI83O6n+fot6hgTRK5fZAl3NN89O2RDPlM3DGmz3VJiM7QigkUxpr1dW8dJPH+jb9GLS35+KjoFz38wGWvngdJSSkf8wxaLejGcOJTkMm1FGW+FD84T8YE0tSuf6pWsZ9x50CdFck83LBr5buILaIM8ePAU/1UekhLmqCzOD13AMu7ZNa41D5Qx+m1z0JCDJJXrYREy3QMB0Ccgov5pQDPEpwcyhoU5hIMviYyrAIhh7cn7kf72jMmT3nHzjVP4j5OFV1Z6dLVGEWGlLoZ5g9nf9FzRl11tY/zmr5N+ziFLafH5AdIxZS7CPrQrU4AItATliSvYF0Af63Rc2uAlzoDRfYQ7REWPC33DRtqaBb5w0YEYg/JuRKdnvmLg4Oyl2fBlRIe8yy5aa4c2vmYHB3VCWh1ASI8V9iGMBkUyrcZHxeJcqttczziL1WQw7Q5e0QklyTD7UG5Js9KpWYqvUgSb1jqxLVVtyLdpHl4Y5w7yN0D9ijiYhpa2KrGYOLmzVnDgd96MULGvBYpKUjCiB4H2Ixno6axDHEhIfoMZBQvJColwm/s4L1UwHWssjp+0oUspISoEPyMurzPEDSwYry7gdrBk253wP+9RGYlkfVOWF7H/8cmr84Rp8DKRgl6PcQEqyD2c9aQsQrQsJuvYuPdjTa63GqfA4FomIDCSjaN3IcLzBTbSJAg9ppbAC3jBIV7UQxZ6h5fe3nQC9sbUH1NVwAMvG4HZdrKLD0tXyKoM4Ta4kCqzpHCqd3pDTUH14RA==}"
+      - usernamePassword:
+          description: "userandpasstest"
+          id: "bb5f955e-867c-4b91-87b2-660301a717b0"
+          password: "{AQAAABAAAAAQ4C3SK9ExI5WlCQRW/OysSYLPaD0e4HzNaSkIfzylFlw=}"
+          scope: GLOBAL
+          username: "aws"
+      - file:
+          description: "wordpress"
+          fileName: "wordpress.pem"
+          id: "54f638f1-f3ce-4b5e-a846-4541abb88fec"
+          scope: GLOBAL
+          secretBytes: "{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}"
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    roleBased:
+      roles:
+        global:
+        - assignments:
+          - "master"
+          name: "CustomGobalRoles"
+          pattern: ".*"
+          permissions:
+          - "Job/Move"
+          - "Job/Build"
+          - "Job/Create"
+          - "View/Create"
+          - "Job/Discover"
+          - "Job/Read"
+          - "Run/Replay"
+          - "Run/Delete"
+          - "Job/Cancel"
+          - "Job/ExtendedRead"
+          - "Overall/Read"
+          - "Overall/SystemRead"
+          - "Run/Update"
+          - "Job/Delete"
+          - "View/Delete"
+          - "Job/Configure"
+          - "Job/Workspace"
+          - "View/Read"
+          - "View/Configure"
+        - assignments:
+          - "jyoti"
+          - "master"
+          name: "JenkinsPageAccess"
+          pattern: ".*"
+          permissions:
+          - "Overall/Read"
+          - "Overall/SystemRead"
+        - assignments:
+          - "srcm"
+          name: "admin"
+          pattern: ".*"
+          permissions:
+          - "Job/Move"
+          - "Job/Build"
+          - "Lockable Resources/View"
+          - "Credentials/Delete"
+          - "Credentials/ManageDomains"
+          - "Lockable Resources/Unlock"
+          - "View/Create"
+          - "Agent/Configure"
+          - "Job/Read"
+          - "Credentials/Update"
+          - "Agent/Create"
+          - "Job/ExtendedRead"
+          - "Overall/SystemRead"
+          - "Job/Delete"
+          - "Agent/Build"
+          - "View/Configure"
+          - "Lockable Resources/Reserve"
+          - "Agent/Provision"
+          - "SCM/Tag"
+          - "Job/Create"
+          - "Job/Discover"
+          - "Agent/ExtendedRead"
+          - "Credentials/View"
+          - "Agent/Connect"
+          - "Agent/Delete"
+          - "Run/Replay"
+          - "Agent/Disconnect"
+          - "Run/Delete"
+          - "Job/Cancel"
+          - "Overall/Read"
+          - "Run/Update"
+          - "Credentials/Create"
+          - "Overall/Administer"
+          - "View/Delete"
+          - "Job/Configure"
+          - "Job/Workspace"
+          - "View/Read"
+        items:
+        - assignments:
+          - "jyoti"
+          name: "AWS_Project"
+          pattern: "aws"
+          permissions:
+          - "Job/Cancel"
+          - "Job/ExtendedRead"
+          - "Job/Move"
+          - "Job/Build"
+          - "Job/Delete"
+          - "Job/Create"
+          - "Job/Discover"
+          - "Job/Read"
+          - "Job/Configure"
+          - "Job/Workspace"
+  clouds:
+  - kubernetes:
+      containerCap: 10
+      containerCapStr: "10"
+      maxRequestsPerHost: 32
+      maxRequestsPerHostStr: "32"
+      name: "kubernetes"
+      namespace: "jenkinscicd"
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  disabledAdministrativeMonitors:
+  - "jenkins.diagnostics.RootUrlNotSetMonitor"
+  - "jenkins.security.QueueItemAuthenticatorMonitor"
+  - "hudson.diagnosis.ReverseProxySetupMonitor"
+  labelAtoms:
+  - name: "master"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "jyoti"
+        name: "jyoti"
+        properties:
+        - "apiToken"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - mailer:
+            emailAddress: "jyotiomkulkarni@gmail.com"
+      - id: "master"
+        name: "master"
+        properties:
+        - "apiToken"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - mailer:
+            emailAddress: "master@gmail.com"
+      - id: "srcm"
+        name: "srcm"
+        properties:
+        - "apiToken"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "timezone"
+        - mailer:
+            emailAddress: "omkarkulkarni32@gmail.com"
+  slaveAgentPort: 50000
+  systemMessage: "Hello This Jenkins Server Belong to Crontab India Pvt Limited."
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  sSHD:
+    port: -1
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildStepOperation:
+    enabled: false
+  defaultFolderConfiguration:
+    healthMetrics:
+    - worstChildHealthMetric:
+        recursive: true
+  extendedEmailPublisher:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:\r\n\r\nCheck\
+      \ console output at $BUILD_URL to view the results."
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: 0
+    precedenceBulk: false
+    useSsl: false
+    watchingEnabled: false
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://ec2-13-232-184-169.ap-south-1.compute.amazonaws.com:31267/github-webhook/"
+  gitSCM:
+    createAccountBasedOnEmail: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  globalPluginConfiguration:
+    buildConfigListInterval: 300
+    buildListInterval: 300
+    configMapListInterval: 300
+    enabled: true
+    foldersEnabled: true
+    imageStreamListInterval: 300
+    namespace: "jenkinscicd"
+    secretListInterval: 300
+  location:
+    adminAddress: "omkarkulkarni32@gmail.com"
+    url: "http://ec2-13-232-184-169.ap-south-1.compute.amazonaws.com:31267/"
+  mailer:
+    charset: "UTF-8"
+    useSsl: false
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  timestamperConfig:
+    allPipelines: true
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  gradle:
+    installations:
+    - name: "MyGradle"
+      properties:
+      - installSource:
+          installers:
+          - gradleInstaller:
+              id: "6.6-rc-1"
+  maven:
+    installations:
+    - name: "MyMaven"
+      properties:
+      - installSource:
+          installers:
+          - maven:
+              id: "3.6.3"
